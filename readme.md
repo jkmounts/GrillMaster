@@ -1,0 +1,1 @@
+An app for timing when to put items on the grill, when to flip, and when to remove. Helping grill masters make a perfect meal everytime.
